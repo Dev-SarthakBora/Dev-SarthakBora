@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sarthak Bora</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-sarthakbora" alt="dev-sarthakbora" /></a> </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dev-sarthakbora&theme=gruvbox&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

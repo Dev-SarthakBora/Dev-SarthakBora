@@ -68,12 +68,24 @@
 
 ### 🎯 Goals for 2025
 
-- ✅ Contribute to Open Source
-- ✅ Build scalable backend projects
-- ✅ Learn Django or FastAPI
+- ✅ Learn Python as much as i can
+- ✅ Build a good social profile
+- ✅ Learn Data Analytics
 - ✅ Master SQL queries for analytics
 
 ---
 
 > Feel free to ⭐️ my repositories if you find them useful!
+
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=dev-sarthakbora&label=Profile%20views&color=0e75b6&style=flat)
+
+---
+
+
+
+
+
 

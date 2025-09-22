@@ -61,7 +61,7 @@
 
 - 🐍 Advanced Python Techniques
 - 📊 Data Cleaning & Analysis with **Pandas**
-- 💻 Backend using **Flask**
+- 💻 visualisation using **Tableau or PowerBI**
 - ☁️ Deploying projects on **Render** or **Vercel**
 
 ---

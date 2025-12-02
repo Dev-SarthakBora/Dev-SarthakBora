@@ -10,8 +10,8 @@
 ### 👨‍💻 About Me
 
 - 🎓 I'm currently pursuing my studies and enhancing my skills in **Python**, **Data Structures**, and **Backend Development**.
-- 🌱 Currently learning advanced **Data Analysis** with **Pandas** & **NumPy**.
-- 💼 Interested in **Backend Engineering**, **APIs**, and **Automation**.
+- 🌱 Currently learning **Data Analysis** with **Pandas** & **NumPy**.
+- 💼 Interested in **Analytics**, **APIs**, and **Automation**.
 - ⚡ Fun fact: I love breaking big problems into tiny solvable pieces!
 
 ---
@@ -27,12 +27,23 @@
 
 ### 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,java,mysql,pandas,numpy,github,vscode" />
+  <!-- Skill Icons -->
+  <img src="https://skillicons.dev/icons?i=python,c,java,mysql,pandas,numpy,github,vscode,excel" />
 
+  <!-- Tableau Icon (Working PNG) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="40" height="40" alt="Tableau" />
+
+  <!-- Power BI Icon -->
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg" width="40" height="40" alt="Power BI" />
+
+  <!-- LeetCode Profile -->
   <a href="https://leetcode.com/YOUR_USERNAME/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg"
+         alt="LeetCode" width="40" height="40" />
   </a>
 </p>
+
+
 
 
 ---

@@ -62,13 +62,15 @@
     height="165"
   />
 </p>
+---
+
+## 📈 GitHub Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-sarthakbora&theme=tokyo-night&hide_border=true)
 
 ---
-## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=dev-sarthakbora&theme=tokyonight&hide_border=true)>
 
----
 
 ### 🧠 Currently Exploring
 

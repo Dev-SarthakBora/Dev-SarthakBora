@@ -48,34 +48,33 @@
 
 ---
 
-### 📊 GitHub Stats
+---
 
-<!-- 📊 GitHub Stats -->
+## 📊 GitHub Stats
+
 <p align="center">
   <img 
-    src="https://ghproxy.com/https://github-readme-stats.vercel.app/api?username=dev-sarthakbora&show_icons=true&theme=tokyonight" 
-    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=dev-sarthakbora&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="165"
   />
-</p>
-
-<!-- 🧠 Top Languages -->
-<p align="center">
   <img 
-    src="https://ghproxy.com/https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sarthakbora&layout=compact&theme=tokyonight" 
-    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sarthakbora&layout=compact&theme=tokyonight&hide_border=true" 
+    height="165"
   />
 </p>
 
 ---
 
-### ⚙️ GitHub Streak (Working Mirror)
+## 🔥 GitHub Streak
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=dev-sarthakbora&theme=tokyonight" 
-    alt="GitHub Streak"
+    src="https://streak-stats.demolab.com?user=dev-sarthakbora&theme=tokyonight&hide_border=true" 
   />
 </p>
+
+---
+
 
 ---
 

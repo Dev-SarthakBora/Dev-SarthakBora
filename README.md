@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarthak Bora</h1>
-<h3 align="center">🚀 A Passionate Python Developer from India</h3>
+<h3 align="center">🚀 A Aspiring Data Analyst from India</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Problem+Solver+%7C+Quick+Learner;Python+%7C+Data+Analysis+%7C+MySQL;+curious+to+learn+new+things" alt="Typing SVG" />
@@ -9,8 +9,8 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm currently pursuing my studies and enhancing my skills in **Python**, **Data Structures**, and **Backend Development**.
-- 🌱 Currently learning **Data Analysis** with **Pandas** & **NumPy**.
+- 🎓 I'm currently pursuing my studies and enhancing my skills in **AI**, **Data Structures**, and **Analytics**.
+- 🌱 Currently learning **Data Analysis** with **Essential Toolkit for analysis**.
 - 💼 Interested in **Analytics**, **APIs**, and **Automation**.
 - ⚡ Fun fact: I love breaking big problems into tiny solvable pieces!
 
@@ -30,15 +30,25 @@
 
 > This portfolio showcases how I approach problems, clean data, and turn insights into visuals.
 
+---
+## 📌 Profile Snapshot
 
-### 📫 Connect with me
-
-<p align="left">
-  <a href="https://linkedin.com/in/sarthak-bora" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-  <a href="https://www.hackerrank.com/sarthakbora" target="blank"><img align="center" src="https://skillicons.dev/icons?i=hackerrank" alt="HackerRank" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Primary%20Focus-Data%20Analytics-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Core%20Language-Python-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSA-Java-critical?style=for-the-badge" />
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Visualization-Tableau%20%7C%20Power%20BI-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Skills-Pandas%20%7C%20NumPy-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Databases-MySQL-lightgrey?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Actively%20Learning-success?style=for-the-badge" />
+</p>
+
 
 ### 🛠️ Languages & Tools
 <p align="left">
@@ -81,16 +91,23 @@
 
 ---
 
-### 🎯 Goals for 2025
+### 🎯 Goals for 2026
 
-- ✅ Learn Python as much as i can
+- ✅ Look for New Oppurtunities
 - ✅ Build a good social profile
-- ✅ Learn Data Analytics
-- ✅ Master SQL queries for analytics
+- ✅ Upskill in Data Analytics
+- ✅ Participate in case studies
 
 ---
 
 > Feel free to ⭐️ my repositories if you find them useful!
+
+### 📫 Connect with me
+
+<p align="left">
+  <a href="https://linkedin.com/in/sarthak-bora" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="https://www.hackerrank.com/sarthakbora" target="blank"><img align="center" src="https://skillicons.dev/icons?i=hackerrank" alt="HackerRank" /></a>
+</p>
 
 
 ---

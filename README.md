@@ -16,6 +16,21 @@
 
 ---
 
+## 🌐 Portfolio Website
+
+🚀 **Explore my work & projects here:**  
+👉 **https://dev-sarthakbora.github.io/Portfolio/**
+
+### What you’ll find:
+- 📊 Data Analytics projects with real datasets  
+- 📈 Interactive dashboards (Tableau / Power BI)  
+- 🐍 Python-based data cleaning & analysis workflows  
+- 🧠 Clear problem statements, approach, and insights  
+- 📄 Resume and contact details  
+
+> This portfolio showcases how I approach problems, clean data, and turn insights into visuals.
+
+
 ### 📫 Connect with me
 
 <p align="left">
@@ -48,21 +63,6 @@
 
 ---
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=dev-sarthakbora&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="165"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sarthakbora&layout=compact&theme=tokyonight&hide_border=true" 
-    height="165"
-  />
-</p>
----
 
 ## 📈 GitHub Activity Graph
 

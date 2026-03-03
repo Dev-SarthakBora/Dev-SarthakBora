@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarthak Bora</h1>
-<h3 align="center">🚀 A Aspiring Data Analyst from India</h3>
+<h3 align="center">🚀 A Tech Enthusiast from India</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Problem+Solver+%7C+Quick+Learner;Python+%7C+Data+Analysis+%7C+MySQL;+curious+to+learn+new+things" alt="Typing SVG" />
